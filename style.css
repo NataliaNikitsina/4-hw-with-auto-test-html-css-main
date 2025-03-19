@@ -59,7 +59,6 @@ header span {
 
 .main-image {
     max-width: 715px;
-    width: 100%;
 }
 
 .about-section {
@@ -223,7 +222,7 @@ footer {
     }
 
     .main-image {
-        max-width: 715px;
+        max-width: 100%;
     }
 
     .text-wrapper {
